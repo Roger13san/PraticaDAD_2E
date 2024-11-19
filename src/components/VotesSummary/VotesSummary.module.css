@@ -1,0 +1,19 @@
+.summaryContainer {
+  margin-top: 20px;
+  padding: 10px;
+  background-color: #c3edcd;
+  border: 1px solid #a9dfbf;
+  border-radius: 5px;
+}
+
+.summaryText {
+  font-size: 1.5em;
+  color: #5b9279;
+  font-weight: bold;
+}
+.textzin{
+ 
+  font-size: 1em;
+  color: #000000;
+  font-weight: bold;
+}

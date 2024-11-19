@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Concert+One&display=swap');
+
+* {
+    user-select: none;
+}
+
+.addTask {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.inputTask {
+    padding: 5px 10px;
+    font-size: 1em;
+    border: 1px solid #a9dfbf;
+    border-radius: 5px;
+    width: 200px;
+    background-color: #d4edda;
+    color: #5b9279;
+    margin-right: 50px;
+}
+
+.addButton {
+    padding: 5px 15px;
+  font-size: 1em;
+  color: white;
+  background-color: #82c9a7;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+    align-content: center;
+    text-align: center;
+    margin-left: 20px;
+}
